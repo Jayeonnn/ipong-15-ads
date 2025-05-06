@@ -36,13 +36,12 @@ const HowItWorks = () => {
 
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
-            A17 Pro chip.
-            <br /> A monster win for gaming.
+            A17 Pro chip
+            <br /> Sebuah monster kemenangan untuk gaming.
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
-          </p>
+          Kini hadir. Evolusi terbesar GPU Apple sepanjang sejarahnya          </p>
         </div>
 
         <div className="mt-10 md:mt-20 mb-14">
